@@ -1,6 +1,6 @@
-# React Table v6
+# React Table Legacy
 
-`react-table` is a **lightweight, fast and extendable datagrid** built for React
+This is a fork of [react-table-6](https://www.npmjs.com/package/react-table-6) with added support for React 17.
 
 ## Important! This is not the most recent version of React Table and is no longer receiving long-term support.
 
