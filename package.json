@@ -1,6 +1,6 @@
 {
-  "name": "react-table-legacy",
-  "version": "6.12.0",
+  "name": "react-table",
+  "version": "6.12.1",
   "description": "A fork of react-table-6 with support for React 17",
   "license": "MIT",
   "homepage": "https://github.com/tannerlinsley/react-table/tree/v6#readme",
